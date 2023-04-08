@@ -6,7 +6,7 @@
 | ----- | -----|
 | 1. [**Sentiment Analysis Streamlit Dashbaord**](https://github.com/andysingal/Interactive-Dashboards-With-Streamlit/tree/main/PycharmProjects/Sentiment-Analysis-streamlit) | ✅ |
 
-| 2. **Youtube Dashboard Streamlit**(https://github.com/andysingal/DataScience-Streamlit) | ✅ | 
+| 2. [**Youtube Dashboard Streamlit**](https://github.com/andysingal/DataScience-Streamlit) | ✅ | 
 
 ![Image](https://github.com/andysingal/DataScience-Streamlit/blob/main/Images/Screen%20Shot%202023-04-08%20at%204.36.00%20PM.png)
 
