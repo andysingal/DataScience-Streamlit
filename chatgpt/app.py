@@ -1,7 +1,7 @@
 import streamlit as st
 import openai, os
 model_engine = "text-davinci-003"
-openai.api_key = os.environ.get('OPENAI_API_KEY', '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')
+openai.api_key = os.environ.get('OPENAI_API_KEY', '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')
 def ChatGPT(user_query):
     '''
     This function uses the OpenAI API to generate a response to the given
