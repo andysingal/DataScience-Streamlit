@@ -8,7 +8,7 @@
 | 2. [**Youtube Dashboard Streamlit**](https://github.com/andysingal/DataScience-Streamlit) | ✅ | 
 | 3. [**Chatting with Chatgpt**](https://github.com/andysingal/DataScience-Streamlit/tree/main/chatgpt) | ✅ | 
 
-![Image](https://github.com/andysingal/DataScience-Streamlit/blob/main/Images/Screen%20Shot%202023-04-08%20at%204.36.00%20PM.png)
+![Image](https://github.com/andysingal/DataScience-Streamlit/blob/main/Images/Screen%20Shot%202023-04-18%20at%204.20.32%20PM.png)
 
-![Image](https://github.com/andysingal/DataScience-Streamlit/blob/main/Images/Screen%20Shot%202023-04-08%20at%205.10.23%20PM.png)
+![Image](https://github.com/andysingal/DataScience-Streamlit/blob/main/Images/Screen%20Shot%202023-04-18%20at%204.21.25%20PM.png)
 
