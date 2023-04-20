@@ -7,8 +7,10 @@
 | 1. [**Sentiment Analysis Streamlit Dashbaord**](https://github.com/andysingal/Interactive-Dashboards-With-Streamlit/tree/main/PycharmProjects/Sentiment-Analysis-streamlit) | ✅ |
 | 2. [**Youtube Dashboard Streamlit**](https://github.com/andysingal/DataScience-Streamlit) | ✅ | 
 | 3. [**Chatting with Chatgpt**](https://github.com/andysingal/DataScience-Streamlit/tree/main/chatgpt) | ✅ | 
+| 4. [**Expense Tracker**](https://github.com/andysingal/DataScience-Streamlit/tree/main/Expense_Tracker) | ✅ | 
 
 ![Image](https://github.com/andysingal/DataScience-Streamlit/blob/main/Images/Screen%20Shot%202023-04-18%20at%204.20.32%20PM.png)
 
 ![Image](https://github.com/andysingal/DataScience-Streamlit/blob/main/Images/Screen%20Shot%202023-04-18%20at%204.21.25%20PM.png)
+
 
