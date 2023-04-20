@@ -7,7 +7,7 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 from sqlalchemy import create_engine
 from sqlalchemy.pool import StaticPool
 from utils import *
-OPENAI_API_KEY= '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'
+OPENAI_API_KEY= 'secret key'
 os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 
 
