@@ -1,6 +1,6 @@
 
 **DataScience-Streamlit**
-- On my Journey of Streamlit, I have been reading about [**Streamlit**](https://docs.streamlit.io/library/get-started) .I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- On my Journey of Streamlit, I have been reading about [**Streamlit**](https://docs.streamlit.io/library/get-started) .I hope you will also spend some time learning  from the Projects mentioned below. Excited about the days ahead !!
 
 | Projects | Status of Completion |
 | ----- | -----|
