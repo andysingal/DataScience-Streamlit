@@ -9,6 +9,7 @@
 | 3. [**Chatting with Chatgpt**](https://github.com/andysingal/DataScience-Streamlit/tree/main/chatgpt) | ✅ | 
 | 4. [**Expense Tracker**](https://github.com/andysingal/DataScience-Streamlit/tree/main/Expense_Tracker) | ✅ | 
 | 5. [**Excel Plotter**](https://github.com/andysingal/DataScience-Streamlit/tree/main/Excel_files) | ✅ | 
+| 6. [**Basics-dataset**](https://github.com/andysingal/DataScience-Streamlit/blob/main/basics/penguin1.py) | ✅ | 
 
 
 ![Image](https://github.com/andysingal/DataScience-Streamlit/blob/main/Images/Screen%20Shot%202023-04-18%20at%204.20.32%20PM.png)
