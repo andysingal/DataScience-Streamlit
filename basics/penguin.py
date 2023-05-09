@@ -1,32 +1,44 @@
-import pandas as pd
-import numpy as np
 import streamlit as st
+
+import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 st.title("Palmer's Penguins")
+
 st.markdown('Use this Streamlit app to make your own scatterplot about penguins!')
-
-penguin_file = st.file_uploader('Select Your Local Penguins CSV (default provided)')
-
-if penguin_file is not None:
-      penguins_df = pd.read_csv(penguin_file)
-else:
-
-      penguins_df= pd.read_csv('../basics/penguins.csv')
 
 selected_x_var = st.selectbox('What do want the x variable to be?',
 
-['bill_length_mm', 'bill_depth_mm', 'flipper_length_mm', 'body_mass_g'])
+     ['bill_length_mm', 'bill_depth_mm', 'flipper_length_mm', 'body_mass_g'])
 
 selected_y_var = st.selectbox('What about the y?',
 
-['bill_depth_mm', 'bill_length_mm', 'flipper_length_mm', 'body_mass_g'])
+     ['bill_depth_mm', 'bill_length_mm', 'flipper_length_mm', 'body_mass_g'])
+
+penguin_file = st.file_uploader('Select Your Local Penguins CSV')
+
+if penguin_file is not None:
+
+     penguins_df = pd.read_csv(penguin_file)
+
+else:
+
+     st.stop()
+
+sns.set_style('darkgrid')
+
+markers = {"Adelie": "X", "Gentoo": "s", "Chinstrap":'o'}
 
 fig, ax = plt.subplots()
 
-ax = sns.scatterplot(x = penguins_df[selected_x_var],
+ax = sns.scatterplot(data = penguins_df, x = selected_x_var,
 
-y = penguins_df[selected_y_var], hue = penguins_df['species'])
+  y = selected_y_var, hue = 'species', markers = markers,
+
+  style = 'species')
 
 plt.xlabel(selected_x_var)
 
