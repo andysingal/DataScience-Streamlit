@@ -48,6 +48,7 @@ else:
       pass
 sns.set_style('darkgrid')
 markers = {"Adelie": "X", "Gentoo": "s", "Chinstrap":'o'}
+
 fig, ax = plt.subplots()
 
 ax = sns.scatterplot(x=penguins_df[selected_x_var],
