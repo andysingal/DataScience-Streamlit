@@ -1,2 +1,4 @@
 pandasai==0.2.2
 streamlit
+python-docx
+seaborn
