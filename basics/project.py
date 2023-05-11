@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import docx
 from utils import *
+print(docx.__file__)
 
 st.set_page_config(layout='wide')
 
