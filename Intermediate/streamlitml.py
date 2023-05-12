@@ -147,5 +147,5 @@ st.write('We used a machine learning (Random Forest) model to '
 'predict the species, the features used in this prediction '
 ' are ranked by relative importance below.')
 
-st.image('feature_importance.png')
+st.image('Intermediate/feature_importance.png')
 
