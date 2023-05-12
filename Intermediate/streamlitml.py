@@ -98,6 +98,8 @@ else:
     plt.title('Flipper Length by Species')
 
     st.pyplot(ax)
+    st.write(
+        'Below are the histograms for each continuous variable separated by penguin species. The vertical line represents your the inputted value.')
 
 
 with st.form('user_inputs'):
@@ -147,4 +149,3 @@ st.write('We used a machine learning (Random Forest) model to '
 
 st.image('feature_importance.png')
 
-st.write('Below are the histograms for each continuous variable separated by penguin species. The vertical line represents your the inputted value.')
