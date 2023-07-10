@@ -11,6 +11,8 @@
 | 5. [**Excel Plotter**](https://github.com/andysingal/DataScience-Streamlit/tree/main/Excel_files) | ✅ | 
 | 6. [**Basics-dataset**](https://github.com/andysingal/DataScience-Streamlit/blob/main/basics/penguin1.py) | ✅ | 
 | 7. [**CLIP**](https://github.com/andysingal/DataScience-Streamlit/tree/main/CLIP_streamlit) | ✅ |
+| 8. [**LLM_SUMMARIZE**](https://github.com/andysingal/DataScience-Streamlit/tree/main/llm-summarize) | ✅ |
+
 
 
 
