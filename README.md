@@ -23,3 +23,5 @@
 ![Image](https://github.com/andysingal/DataScience-Streamlit/blob/main/Images/Screen%20Shot%202023-05-10%20at%2011.41.21%20AM.png)
 
 
+Resources:
+- [Streamlit-faker](https://github.com/arnaudmiribel/streamlit-faker)
