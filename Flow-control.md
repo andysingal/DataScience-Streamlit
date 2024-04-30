@@ -1,0 +1,2 @@
+As we talked about just before, there are two solutions to this data upload default situation. We can provide a default file to use until the user interacts with the application, or we can stop the app until a file is uploaded. Let’s start with the first option. The following code uses the st.file_uploader() function from within an if statement. If the user uploads a file, then the app uses that; if they do not, then we default to the file we have used before:
+
