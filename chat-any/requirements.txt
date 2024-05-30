@@ -1,0 +1,13 @@
+python-dotenv
+streamlit
+
+langchain
+langchain-community
+llama-index
+
+llama-index-embeddings-langchain
+sentence-transformers
+
+llama-index-llms-gemini
+google-generativeai
+llama-index-readers-web
