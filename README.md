@@ -25,3 +25,4 @@
 
 Resources:
 - [Streamlit-faker](https://github.com/arnaudmiribel/streamlit-faker)
+- [RAG-APP](https://github.com/sunilgiri7/RAG-APP/tree/main) 
