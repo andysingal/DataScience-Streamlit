@@ -39,3 +39,6 @@
 streamlit run LangChain_llm_Agent.py
 ```
 [![Exploring the App: A Visual Guide](files/Streamlit_Agent_App.png)](https://youtu.be/6uD480u49lU)
+
+Resources:
+- [Build a Secure Local RAG Application with Chat History using LangChain, llama3, Qdrant, Redis & Streamlit](https://medium.com/@hemz/build-a-secure-local-rag-application-with-chat-history-using-langchain-llama3-qdrant-redis-986be3628a94)
