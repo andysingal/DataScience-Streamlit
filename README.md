@@ -12,6 +12,7 @@
 | 6. [**Basics-dataset**](https://github.com/andysingal/DataScience-Streamlit/blob/main/basics/penguin1.py) | ✅ | 
 | 7. [**CLIP**](https://github.com/andysingal/DataScience-Streamlit/tree/main/CLIP_streamlit) | ✅ |
 | 8. [**LLM_SUMMARIZE**](https://github.com/andysingal/DataScience-Streamlit/tree/main/llm-summarize) | ✅ |
+| 9. [**LLM-local-RAG**](https://github.com/Sydney-Informatics-Hub/LLM-local-RAG/blob/main/app.py) | ✅ |
 
 
 
