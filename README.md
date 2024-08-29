@@ -28,3 +28,4 @@ Resources:
 - [Streamlit-faker](https://github.com/arnaudmiribel/streamlit-faker)
 - [RAG-APP](https://github.com/sunilgiri7/RAG-APP/tree/main)
 - [Swagger Query Engine using LlamaIndex](https://satishkumarandey.medium.com/introducing-the-swagger-query-engine-using-llamaindex-44fa8bbda139)
+- [Using time-based RAG in LLM apps](https://blog.streamlit.io/using-time-based-rag-llm-apps-with-timescale-vector/)
