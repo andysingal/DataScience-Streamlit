@@ -1,0 +1,118 @@
+{
+    "public_identifier": "jayant-nehra",
+    "profile_pic_url": "https://media.licdn.com/dms/image/v2/C4D03AQFDSZ5sGrH9mg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1604229857806?e=1730332800&v=beta&t=aI1c1TvOHvDduqz_D9km8PT8kDX0iLm06ch7ktWeazc",
+    "first_name": "JAYANT",
+    "last_name": "NEHRA",
+    "full_name": "JAYANT NEHRA",
+    "follower_count": 264,
+    "occupation": "Data Engineer @ FiftyFive Technologies | Master of Science in Artificial Intelligence",
+    "headline": "Data Engineer @ FiftyFive Technologies | Master of Science in Artificial Intelligence",
+    "summary": "Hello, I'm Jayant Nehra, a dedicated Data Engineer with a solid background in building scalable data infrastructures, enhancing data integration, and deploying advanced data pipelines. With an MS in Artificial Intelligence from Warsaw University of Technology and extensive hands-on experience across high-tech industries, I specialize in transforming complex data challenges into actionable solutions.\n\nIn various environments, from startups to large enterprises, I have developed robust data pipelines that support real-time data processing and analytics. My technical toolkit is well-rounded, including Python, Golang, SQL, and big data technologies such as Apache Spark, PySpark, and Google BigQuery. I am particularly passionate about using cloud platforms like AWS, Azure, and GCP to foster business insights and drive innovation.\n\nRecently, I have been working on developing multilingual, multi-modal datasets for training proprietary large language models, involving sophisticated ETL pipelines and data curation strategies on Azure Data Lakes. My work focuses on ensuring efficient data operations on distributed systems, capable of processing up to 10 terabytes of data and enabling advanced NLP and machine learning applications.\n\nI am committed to continuous learning and keeping up with industry trends, currently exploring cutting-edge data architecture technologies like Lakehouse, DBT, and Apache Iceberg. My goal is to leverage my analytical skills and technological acumen to help businesses transform data into strategic assets.\n\nLet's Connect: I\u2019m always open to discussing data engineering challenges and opportunities, or collaborating on projects that push the boundaries of data technology. Feel free to connect with me here on LinkedIn or drop me an email at nj.nehra@gmail.com to exchange ideas or explore potential synergies!",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "FiftyFive Technologies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fiftyfivetechnologies",
+            "company_facebook_profile_url": null,
+            "title": "Data Engineer",
+            "description": "\u2022 Client ~ Run Viable - Financial Analyst Chatbot\n    \u25e6 Key Contributions:\n        \u25e6 Developed advanced financial analyst chatbot for dynamic and human-like interactions, boosting user satisfaction.\n        \u25e6 Equipped chatbot with real-time Financial Insights, Intelligent Response Categorization, Dynamic Follow Up Question Analysis, and more.\n        \u25e6 Automated query categorization and administrator control for accurate responses.\n        \u25e6 Enabled chatbot to handle diverse financial queries with tailored response guidelines.\n\n    \u25e6 Achievements:\n        \u25e6 Enhanced User Satisfaction: Elevated user engagement and satisfaction through an interactive chatbot experience, leading to improved retention rates.\n        \u25e6 Data-Driven Decision-Making: Provided Small Business owners with real-time access to financial insights, enabling informed and strategic decision-making.\n        \u25e6 Streamlined User Interactions: Optimized user interactions by introducing dynamic follow-up questions, resulting in more accurate query resolutions.\n\n    \u25e6 Technologies Used:\n        \u25e6 Python, Google Cloud Databases, FastAPI\n        \u25e6 Tools/Platforms: Heroku, Github, OpenAI API\n\n\u2022 Client ~ LoopKitchen - Automated Delivery Intelligence\n    \u25e6 Key Contributions:\n        \u25e6 Developed KPI, Order Accuracy, Store Availability, and Item Performance modules for Store Insights.\n        \u25e6 Streamlined third-party aggregator onboarding with a user-friendly self-serve system.\n        \u25e6 Implemented real-time alerts for lost sales and facilitated brand optimization through operational quality measurement and marketing experiments.\n        \u25e6 Optimized customer success workflows for better store availability and effective cancellations.\n\n    \u25e6 Technologies Used:\n        \u25e6 Languages: BigQuery, SQL, Python\n        \u25e6 Tools/Platforms: Google BigQuery, Looker Studio, Github, Linear, Excel",
+            "location": "Jaipur, Rajasthan, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/fiftyfivetechnologies/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240831%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240831T054233Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=e7b7acefda5931f254bd24de728f9a9997af356b4d29e90691496fc8ee508d82"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2022
+            },
+            "company": "Prodapt",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/prodapt",
+            "company_facebook_profile_url": null,
+            "title": "Sr. Software Developer",
+            "description": "Client ~ Federos - An ORACLE Company \n    Backend Microservice Developer that ensured clients' product Assure1 integrates successfully within customers' IT and Operation systems and processes. \n    Bringing together fault, performance, topology and service level management on a single platform, including dashboards and visualization aspects.\n                \u2022 Languages : GoLang, Python, Perl\n                  Tools/Platforms : Docker, Kubernetes, Jira, Bitbucket, Federos (ORACLE Subsidiary) Assure1, Linux",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/prodapt/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240831%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240831T054232Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=b657f66671faf87dee0f7a094beda1fb81abb402ef685ffc4c50b4f137fe80ab"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2015
+            },
+            "company": "Amdocs",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/amdocs",
+            "company_facebook_profile_url": null,
+            "title": "System Analyst",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/amdocs/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240831%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240831T054232Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=231304dbb743dc3bdb731c1ca0f726b6a6c3080ac295a75715b05753d37b73e6"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2020
+            },
+            "field_of_study": "Artificial Intelligence",
+            "degree_name": "Master of Science - MS",
+            "school": "Warsaw University of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/8295/",
+            "school_facebook_profile_url": null,
+            "description": "Thesis: \u201cCognitive System Development for Information Extraction for Autonomous Vehicle\u201d",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/warsaw-university-of-technology/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240831%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240831T054233Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=cce559a12f40fa64e7c339a08b11f43772b9a6e7fb3a604aee5d7c61deff5aa4",
+            "grade": "4.37/5",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2014
+            },
+            "field_of_study": "Computer Engineering",
+            "degree_name": "Bachelor of Technology - BTech",
+            "school": "Sardar Vallabhbhai National Institute of Technology, Surat",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15110002/",
+            "school_facebook_profile_url": null,
+            "description": "Skills: Algorithms \u00b7 Database Management System (DBMS) \u00b7 Computer Science \u00b7 SQL \u00b7 Relational Databases \u00b7 C (Programming Language)",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/svnit/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240831%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240831T054233Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5fd72d3bf0adb20d2cab0d3d315ef51e6dd51d8ac97bb6ebd9896dfa04ed906d",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "connections": 226,
+    "recommendations": [
+        "Steven Haynes\n\n\n\nJayant efforts on our development project was great, the code that's been produced is of high quality and it's evident high levels of effort have gone into the development of the application, as mentioned above, it's also clear handing the project handover has been considered!"
+    ]
+}

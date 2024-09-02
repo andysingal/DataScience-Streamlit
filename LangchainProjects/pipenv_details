@@ -1,0 +1,12 @@
+jayantnehra@pop-os:~/Documents/Projects/LangchainProjects$ pipenv --python 3.11
+Creating a virtualenv for this project...
+Pipfile: /home/jayantnehra/Documents/Projects/LangchainProjects/Pipfile
+Using /usr/bin/python (3.11.9) to create virtualenv...
+⠇ Creating virtual environment...created virtual environment CPython3.11.9.final.0-64 in 522ms
+  creator CPython3Posix(dest=/home/jayantnehra/.var/app/com.visualstudio.code/data/virtualenvs/LangchainProjects-jZeTuJHi, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/jayantnehra/.var/app/com.visualstudio.code/data/virtualenv)
+    added seed packages: pip==24.1, setuptools==70.1.0, wheel==0.43.0
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+
+✔ Successfully created virtual environment!
+Virtualenv location: /home/jayantnehra/.var/app/com.visualstudio.code/data/virtualenvs/LangchainProjects-jZeTuJHi
