@@ -13,6 +13,7 @@
 | 7. [**CLIP**](https://github.com/andysingal/DataScience-Streamlit/tree/main/CLIP_streamlit) | ✅ |
 | 8. [**LLM_SUMMARIZE**](https://github.com/andysingal/DataScience-Streamlit/tree/main/llm-summarize) | ✅ |
 | 9. [**LLM-local-RAG**](https://github.com/Sydney-Informatics-Hub/LLM-local-RAG/blob/main/app.py) | ✅ |
+| 10. [**Voice-Chatbot**](https://github.com/Rizwanali324/Urdu_voice_chatbot/blob/main/app.py) |  ✅ |
 
 
 
