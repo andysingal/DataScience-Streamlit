@@ -15,6 +15,7 @@
 | 9. [**LLM-local-RAG**](https://github.com/Sydney-Informatics-Hub/LLM-local-RAG/blob/main/app.py) | ✅ |
 | 10. [**Voice-Chatbot**](https://github.com/Rizwanali324/Urdu_voice_chatbot/blob/main/app.py) |  ✅ |
 | 11. [**Langchain-OutputParser**](https://github.com/Jay-Nehra/LangchainProjects/tree/master) |  ✅ |
+| 12. [**RAG-PDF-CHATBOT**](https://huggingface.co/spaces/prithivMLmods/RAG-PDF-CHATBOT/blob/main/app.py) | ✅ |
 
 
 
