@@ -17,6 +17,7 @@
 | 11. [**Langchain-OutputParser**](https://github.com/Jay-Nehra/LangchainProjects/tree/master) |  ✅ |
 | 12. [**RAG-PDF-CHATBOT**](https://huggingface.co/spaces/prithivMLmods/RAG-PDF-CHATBOT/blob/main/app.py) | ✅ |
 | 13. [**pdf-query-rag-llm-app**](https://github.com/nethacker/pdf-query-rag-llm-app) | ✅ |
+| 14. [**Personal-Langchain-LLM**](https://github.com/JoaoAssalim/Personal-Langchain-LLM/blob/master/llm_chat.py) | ✅ |
 
 
 
