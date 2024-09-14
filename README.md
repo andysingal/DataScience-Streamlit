@@ -19,6 +19,7 @@
 | 13. [**pdf-query-rag-llm-app**](https://github.com/nethacker/pdf-query-rag-llm-app) | ✅ |
 | 14. [**Personal-Langchain-LLM**](https://github.com/JoaoAssalim/Personal-Langchain-LLM/blob/master/llm_chat.py) | ✅ |
 | 15. [**PDF-Sorter**](https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/blob/main/PDF-Sorter/main.py) | ✅ | 
+| 16. [**multimodal-RAG-ResearchQA-bot**](https://github.com/manthan410/multimodal-RAG-ResearchQA-bot/tree/main) | ✅ |  
 
 
 
