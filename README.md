@@ -20,6 +20,7 @@
 | 14. [**Personal-Langchain-LLM**](https://github.com/JoaoAssalim/Personal-Langchain-LLM/blob/master/llm_chat.py) | ✅ |
 | 15. [**PDF-Sorter**](https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects/blob/main/PDF-Sorter/main.py) | ✅ | 
 | 16. [**multimodal-RAG-ResearchQA-bot**](https://github.com/manthan410/multimodal-RAG-ResearchQA-bot/tree/main) | ✅ |  
+| 17. [Conversational AI SQL Assistant with LangChain, GROQ, and Streamlit](https://www.analyticsvidhya.com/blog/2024/09/ai-sql-assistant/)  | ✅ |  
 
 
 
